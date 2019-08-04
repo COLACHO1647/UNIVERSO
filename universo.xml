@@ -1,0 +1,31 @@
+<?xml version="1.0" enconding="UTF-8"?>
+	<sistemasolar estrella="sol">
+		<totalplanetas>
+			<extrerior>
+				<planeta>jupiter</planeta>
+				<planeta>saturno</planeta>
+				<planeta>urano></planeta>
+				<planeta>neptuno</planeta>
+			</exterior>
+			<interior>
+				<planeta>mercurio</planeta>
+				<planeta>venus</planeta>
+				<planeta>tierra</planeta>
+				<planeta>marte</planeta>
+			</interior>
+			<planetananos>
+				<planeta>eris</planeta>
+				<planeta>pluton</planeta>
+			</planetananos>
+		</totalplanetas>
+		<satelites>
+			<satelite>luna</satelite>
+		</satelites>
+		<cuerpos>
+			<cuerpo>asteroides</cuerpo>
+			<cuerpo>cometas</cuerpo>	
+			<cuerpo>estrellasfugases</cuerpo>	
+			<cuerpo>meteorito</cuerpo>
+		</cuerpos>
+	</sistemasolar>
+

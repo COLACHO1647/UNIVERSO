@@ -1,0 +1,160 @@
+<?xml version="1.0" enconding="UTF-8"?>
+	
+	<sistemasolar1>
+		<kepler90planetas>
+				<planetak1 tamaño="pequeño" color="rojizo">
+					<planeta>kepler-90b</planeta>
+				</planetak1>
+				<planetak2 tamaño="pequeño" color="rojo">
+					<planeta>kepler-90c</planeta>
+				</planetak2>
+				<planetak3 tamaño="pequeño" color="beige">
+					<planeta>kepler-90i</planeta>
+				</planetak3>
+				<planetak4 tamaño="mediano" color="gris">
+					<planeta>kepler-90d</planeta>
+				</planetak4>
+				<planetak5 tamaño="mediano" color="azul">
+					<planeta>kepler-90e</planeta>
+				</planetak5>
+				<planetak6 tamaño="mediano" color="beige">
+					<planeta>kepler-90f</planeta>
+				</planetak6>
+				<planetak7 tamaño="grande" color="naranja">
+					<planeta>kepler-90g</planeta>
+				</planetak7>
+				<planetak8 tamaño="grande" color="amarillo">
+					<planeta>kepler-90h</planeta>
+				</planetak8>
+		</kepler90planetas>	
+	</sistemasolar1>
+	<sistemasolar2 estrella="sol">
+		<totalplanetas>
+			<extrerior>
+				<planeta1 tamaño="grande" color="beige">
+					<planeta>jupiter</planeta>
+				</planeta1>
+				<planeta2 tamaño="grande" color="amarillo">
+					<planeta>saturno</planeta>
+				</planeta2>
+				<planeta3 tamaño="mediano" color="azul">
+					<planeta>urano</planeta>
+				</planeta3>
+				<planeta4 tamaño="mediano" color="azul">
+					<planeta>neptuno</planeta>
+				</planeta4>
+			</exterior>
+			<interior>
+				<planeta5 tamaño="mediano" color="gris">
+					<planeta>mercurio</planeta>
+				</planeta5>
+				<planeta6 tamaño="mediano" color="amarillo">
+					<planeta>venus</planeta>
+				</planeta6>
+				<planeta7 tamaño="mediano" color="verde y azul">
+					<planeta>tierra</planeta>
+				</planeta7>
+				<planeta8 tamaño="mediano" color="rojo">
+					<planeta>marte</planeta>
+				</planeta8>
+			</interior>
+			<planetananos>
+				<planeta9 tamaño="pequeño" color="rojizo">
+					<planeta>eris</planeta>
+				</planeta9>
+				<planeta10 tamaño="pequeño" color="gris">
+					<planeta>pluton</planeta>
+				</planeta10>
+			</planetananos>
+		</totalplanetas>
+		<satelites>
+			<satelite1 planeta="tierra">
+				<satelite>luna</satelite>
+			</satelite1>
+			<satelite2 planeta="marte">
+				<satelite>fobos</satelite>
+			</satelite2>
+			<satelite3 planeta="marte">
+				<satelite>demios</satelite>
+			</satelite3>
+			<satelite4 planeta="jupiter">
+				<satelite>io</satelite>
+			</satelite4>
+			<satelite5 planeta="jupiter">
+				<satelite>europa</satelite>
+			</satelite5>
+			<satelite6 planeta="jupiter">
+				<satelite>ganimedes</satelite>
+			</satelite6>
+			<satelite7 planeta="jupiter">
+				<satelite>calisto</satelite>
+			</satelite7>
+			<satelite8 planeta="saturno">
+				<satelite>mimas</satelite>
+			</satelite8>
+			<satelite9 planeta="saturno">
+				<satelite>encelado</satelite>
+			</satelite9>
+			<satelite10 planeta="saturno">
+				<satelite>tetis</satelite>
+			</satelite10>
+			<satelite11 planeta="saturno">
+				<satelite>dione</satelite>
+			</satelite11>
+			<satelite12 planeta="saturno">
+				<satelite>rea</satelite>
+			</satelite12>
+			<satelite13 planeta="saturno">
+				<satelite>titan</satelite>
+			</satelite13>
+			<satelite14 planeta="saturno">
+				<satelite>hiperion</satelite>
+			</satelite14>
+			<satelite15 planeta="saturno">
+				<satelite>lapeto</satelite>
+			</satelite15>
+			<satelite16 planeta="saturno">
+				<satelite>foebe</satelite>
+			</satelite16>
+			<satelite17 planeta="urano">
+				<satelite>puck</satelite>
+			</satelite17>
+			<satelite18 planeta="urano">
+				<satelite>miranda</satelite>
+			</satelite18>
+			<satelite19 planeta="urano">
+				<satelite>ariel</satelite>
+			</satelite19>
+			<satelite20 planeta="urano">
+				<satelite>umbriel</satelite>
+			</satelite20>
+			<satelite21 planeta="urano">
+				<satelite>titania</satelite>
+			</satelite21>
+			<satelite22 planeta="urano">
+				<satelite>oberon</satelite>
+			</satelite22>
+			<satelite23 planeta="neptuno">
+				<satelite>proteo</satelite>
+			</satelite23>
+			<satelite24 planeta="neptuno">
+				<satelite>triton</satelite>
+			</satelite24>
+			<satelite25 planeta="neptuno">
+				<satelite>nereida</satelite>
+			</satelite25>
+			<satelite26 planeta="pluton">
+				<satelite>caronte</satelite>
+			</satelite26>
+			<satelite27 planeta="eris">
+				<satelite>disnomia</satelite>
+			</satelite27>
+		</satelites>
+		<cuerpos>
+			<cuerpo>asteroides</cuerpo>
+			<cuerpo>cometas</cuerpo>	
+			<cuerpo>estrellasfugases</cuerpo>	
+			<cuerpo>meteorito</cuerpo>
+		</cuerpos>
+	</sistemasolar2>
+
